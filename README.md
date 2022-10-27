@@ -11,4 +11,4 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nathaliaaguiar/Nathaliaaguiar/edit/main/README.md)
-[![Linkedin Badge](https://br.linkedin.com/in/nathalia-aguiar-9907751aa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/nathalia-aguiar-9907751aa)
