@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></center>
 
 
-[![Github Badge](https://github.com/Nathaliaaguiar/Nathaliaaguiar/edit/main/README.md)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nathaliaaguiar/Nathaliaaguiar/edit/main/README.md)
 [![Linkedin Badge](https://br.linkedin.com/in/nathalia-aguiar-9907751aa)
