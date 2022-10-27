@@ -10,4 +10,5 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></center>
 
 
-![Snake animation](https://github.com/nathaliaaguiar/nathaliaaguiar/blob/output/github-contribution-grid-snake.svg)
+[![Github Badge](https://github.com/Nathaliaaguiar/Nathaliaaguiar/edit/main/README.md)
+[![Linkedin Badge](https://br.linkedin.com/in/nathalia-aguiar-9907751aa)
