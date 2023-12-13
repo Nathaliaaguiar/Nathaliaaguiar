@@ -52,9 +52,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-### Projetos Destacados
+### Projetos Destacados:
 
-- [Projeto Telecall](https://replit.com/@NathaliaAguiar/Projeto1): Primeiro projeto FrontEnd da faculdade.
+- [Projeto Telecall](https://replit.com/@NathaliaAguiar/Projeto1): Primeiro projeto FrontEnd da faculdade.  <br> Recursos:
+    - **Dark Mode para Todas as Telas:** Desfrute da experiência do usuário no modo escuro em todas as páginas.
+    - **Formulário Salva em LocalStorage:** Os dados inseridos no formulário são automaticamente salvos no LocalStorage para uma persistência de dados simplificada.
 - [Minigame Naty's Jumpventure](https://minigame-natys-jumpventure.nathaliaaguiar.repl.co/): Assuma o controle da intrépida Naty, uma aventureira destemida que adora saltar obstáculos para alcançar novos horizontes. Uma combinação de "jump" (pular) e "adventure" (aventura), indicando uma jornada emocionante de saltos.
 - [Projeto Calculadora com display](https://calculadora-com-display.nathaliaaguiar.repl.co/): Primeira calculadora em Javascript.
 - [Portfólio em Andamento](https://portifolio-em-andamento.nathaliaaguiar.repl.co/): Em andamento.
