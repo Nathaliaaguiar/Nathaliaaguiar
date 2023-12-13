@@ -54,9 +54,10 @@
 
 ### Projetos Destacados:
 
-- [Projeto Telecall](https://replit.com/@NathaliaAguiar/Projeto1): Primeiro projeto FrontEnd da faculdade.  <br> Recursos:
-    - **Dark Mode para Todas as Telas:** Desfrute da experiência do usuário no modo escuro em todas as páginas.
-    - **Formulário Salva em LocalStorage:** Os dados inseridos no formulário são automaticamente salvos no LocalStorage para uma persistência de dados simplificada.
+- [Projeto Telecall](https://replit.com/@NathaliaAguiar/Projeto1): Primeiro projeto FrontEnd da faculdade.
+   <br> Recursos:<br>
+-> Modo Escuro em Todas as Telas: Aperfeiçoei a experiência do usuário ao utilizar o modo escuro em todas as páginas.<br>
+-> Armazenamento Local dos Dados do Formulário: Os dados inseridos no formulário são automaticamente salvos no LocalStorage, simplificando a persistência das informações.
 - [Minigame Naty's Jumpventure](https://minigame-natys-jumpventure.nathaliaaguiar.repl.co/): Assuma o controle da intrépida Naty, uma aventureira destemida que adora saltar obstáculos para alcançar novos horizontes. Uma combinação de "jump" (pular) e "adventure" (aventura), indicando uma jornada emocionante de saltos.
 - [Projeto Calculadora com display](https://calculadora-com-display.nathaliaaguiar.repl.co/): Primeira calculadora em Javascript.
 - [Portfólio em Andamento](https://portifolio-em-andamento.nathaliaaguiar.repl.co/): Em andamento.
