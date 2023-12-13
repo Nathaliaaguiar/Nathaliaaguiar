@@ -17,10 +17,12 @@
  <a href="https://www.linkedin.com/in/nathalia-aguiar-9907751aa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=blue&color=black">
   </a>
-  <a href="https://replit.com/@NathaliaAguiar" target="_blank">
+</div>
+
+### Explore Meu Perfil no Replit e Experimente os Códigos:
+ <a href="https://replit.com/@NathaliaAguiar" target="_blank">
     <img src="https://img.shields.io/badge/-Replit-%231D2021?style=for-the-badge&logo=replit&logoColor=orange&color=black">
   </a>
-</div>
 
 ### Main skills:
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
