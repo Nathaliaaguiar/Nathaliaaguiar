@@ -82,8 +82,6 @@
   Tecnologias: Canva, HTML.
 
 Veja mais no meu portfólio: [portifolio-nathalia-aguiar.vercel.app](https://portifolio-nathalia-aguiar.vercel.app/)
-### 🐍 Cobrinha das Contribuições
-![snake gif](https://github.com/Nathaliaaguiar/Nathaliaaguiar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
