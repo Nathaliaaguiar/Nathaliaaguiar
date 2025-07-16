@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Front-End;Estudante+de+ADS;Apaixonada+por+tecnologia+e+design;Bem-vindo+ao+meu+GitHub!💻" />
 </p>
 <p align="center">
-  <img src="https://github.com/Nathaliaaguiar/Nathaliaaguiar/blob/main/nathalia-avatar.png" width="300" />
+  <img src="https://github.com/Nathaliaaguiar/Nathaliaaguiar/blob/main/euu.png" width="300" />
 
 </p>
 
